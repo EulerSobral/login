@@ -14,3 +14,5 @@ Para abrir o projeto, acesse [aqui](https://logineuler.netlify.app/)
 # Dependências e Versões Necessárias
   * React versão 18.2.0
   * Node.js 18.20.5
+# Considerações finais 
+Utilizei a biblioteca validator para verificar se o email digitado é válido ou não. Para saber mais sobre essa biblioteca, [clique aqui](https://www.npmjs.com/package/validator)
